@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;Firstgo&gt;">
+    <CLASSES>
+      <root url="file://$USER_HOME$/work/src/golang.org" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$USER_HOME$/work/src/golang.org/x/tour/.git" />
+    </excluded>
+  </library>
+</component>
