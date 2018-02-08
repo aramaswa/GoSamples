@@ -14,7 +14,7 @@ func main() {
 	fmt.Println(time.Now())
 
 	rand.Seed(20)
-	fmt.Println("\n Some random number:", rand.Intn(67))
+	fmt.Println("\n Some random number yo.. here is the change. But why:", rand.Intn(67))
 
 	fmt.Println("\n complex number:", cmplx.NaN())
 
